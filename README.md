@@ -30,3 +30,14 @@ A fully functional **Netflix Clone** built with **React**, **Firebase** for auth
 ```bash
 git clone https://github.com/your-username/netflix-clone-react.git
 cd netflix-clone-react
+ ```
+
+## Screenshots
+<div style="display: flex; justify-content: space-between;  align-items: flex-start;">
+  <img src="https://github.com/Yasintha8/netflix-clone-react/blob/main/src/assets/login%20ss.png" width="45%" />
+  <img src="https://github.com/Yasintha8/netflix-clone-react/blob/main/src/assets/signup%20ss.png" width="45%" />
+  <img src="https://github.com/Yasintha8/netflix-clone-react/blob/main/src/assets/home%20ss.png" width="45%" />
+  <img src="https://github.com/Yasintha8/netflix-clone-react/blob/main/src/assets/video%20ss.png" width="45%" />
+</div>
+
+
