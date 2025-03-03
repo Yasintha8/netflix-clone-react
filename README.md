@@ -32,6 +32,11 @@ git clone https://github.com/your-username/netflix-clone-react.git
 cd netflix-clone-react
  ```
 
+### 2. Live Demo
+
+
+https://netflix-clone-projectdev.vercel.app/
+
 ## Screenshots
 <div style="display: flex; justify-content: space-between;  align-items: flex-start;">
   <img src="https://github.com/Yasintha8/netflix-clone-react/blob/main/src/assets/login%20ss.png" width="45%" />
