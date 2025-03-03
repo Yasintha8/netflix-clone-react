@@ -34,8 +34,10 @@ cd netflix-clone-react
 
 ### 2. Live Demo
 
-
+```bash
 https://netflix-clone-projectdev.vercel.app/
+ ```
+
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;  align-items: flex-start;">
