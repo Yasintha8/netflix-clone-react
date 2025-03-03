@@ -34,9 +34,7 @@ cd netflix-clone-react
 
 ### 2. Live Demo
 
-```bash
 https://netflix-clone-projectdev.vercel.app/
- ```
 
 
 ## Screenshots
